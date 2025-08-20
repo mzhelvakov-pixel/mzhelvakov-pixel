@@ -1,4 +1,4 @@
-# Всем привет! Меня зовут Дмитрий 👋  <a href="https://t.me/swagoutbaby"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
+# Всем привет! Меня зовут Максим 👋  <a href="https://t.me/kach2112"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 <p>Я являюсь специалистом по автоматизации тестирования на Java! <img height="25" src="images/icons/java.svg" width="25"/></a> <br/>Мой опыт работы — 2 года.</p> 
  
@@ -7,7 +7,7 @@
 <br/>- 
 <br/>- <a href="https://www.rzd.ru/"><img height="25" src="images/icons/rzd.png" width="25"/></a>
 
-<p><a href="https://t.me/swagoutbaby" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/swagoutbaby"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
+<p><a href="https://t.me/kach2112" target="_blank">Я всегда на связи в Telegram</a> <a href="https://t.me/kach2112"><img src="images/icons/TGBig.png" alt="Telegram Icon" width="25" height="25"/></a>
 
 ## Мой стек технологий
 
